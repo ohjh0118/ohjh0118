@@ -57,7 +57,7 @@
   
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ohjh0118@gmail.com)](mailto:ohjh0118@gmail.com)
 
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ohjh0118)](https://www.instagram.com/ohjh0118)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/wjdghksdh)](https://www.instagram.com/wjdghksdh)
   
 </div>
 
