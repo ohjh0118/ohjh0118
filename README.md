@@ -46,7 +46,7 @@
 ### 소셜 미디어
 <div>
   
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/@jhoh0)[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/ohjh0118)[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ohjh0118@gmail.com)](mailto:ohjh0118@gmail.com)[![Instagram Badge](https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/wjdghksdh)](https://www.instagram.com/wjdghksdh)
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/@jhoh0) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/ohjh0118) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ohjh0118@gmail.com)](mailto:ohjh0118@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/wjdghksdh)](https://www.instagram.com/wjdghksdh)
   
 </div>
 
