@@ -41,13 +41,10 @@
 
 ---
 
-### 재미있는 사실
-제가 좋아하는 것들은 **‘The Equalizer’**와 **‘The Serpent's Embrace’**입니다. 이 영화들은 강력한 메시지를 전달하고 있어요! 또한, 제가 즐겨하는 취미는 야구시청과 게임입니다. 새로운 경험을 통해 배움을 얻는 것을 좋아합니다.
 
----
 
 ### 소셜 미디어
-<div align="center">
+<div>
   
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
   
